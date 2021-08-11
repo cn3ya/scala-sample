@@ -1,4 +1,4 @@
-package example
+package example.collection
 
 
 object ListSample extends App {
